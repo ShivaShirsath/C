@@ -6,7 +6,7 @@
 #include<conio.h>
 
 void main(){
-    char name[15];
+    char name[100];
     clrscr();
     printf("Enter your name : ");
     scanf("%s",&name);
