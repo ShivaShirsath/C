@@ -1,4 +1,6 @@
-# ReadyForC
+# C
+> Program :
+
 ```c
 #include<stdio.h>
 #include<conio.h>
@@ -12,5 +14,6 @@ void main(){
     getch();
 }
 ```
-## OutPut :
+> OutPut :
+
 ![OutPut](output.jpg)
