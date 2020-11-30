@@ -13,4 +13,4 @@ void main(){
 }
 ```
 ## OutPut :
-![OutPut](output.png)
+![OutPut](output.jpg)
