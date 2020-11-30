@@ -1,5 +1,3 @@
-# ReadyForC
-```c
 #include<stdio.h>
 #include<conio.h>
 
@@ -11,8 +9,3 @@ void main(){
     printf("Hello %s !",name);
     getch();
 }
-```
-## OutPut :
-![OutPut][output]
-
-[output]: /output/output.png
