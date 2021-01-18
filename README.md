@@ -18,4 +18,3 @@ void main(){
 Enter your name : Shiva
 Hello Shiva !
 ```
-![OutPut](output.jpg)
