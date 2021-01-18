@@ -15,5 +15,8 @@ void main(){
 }
 ```
 > OutPut :
-
+```
+Enter your name : Shiva
+Hello Shiva !
+```
 ![OutPut](output.jpg)
